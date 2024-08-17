@@ -1,0 +1,55 @@
+name: Deploy Site
+on:
+  schedule:
+    - cron:  '30 13 * * *' # run at 730 every day to support use of hugo's date, publishDate, and expiryDate features. see: https://gohugo.io/getting-started/usage/#draft-future-and-expired-content and https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule 
+  push:
+    branches:
+      - main  # Set a branch to deploy
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    env:
+      HUGO_CACHEDIR: /tmp/hugo_cache # <- Define the env variable here, so that Hugo's cache dir is now predictible in your workflow and doesn't depend on the Hugo's version you're using.
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.131.0'
+          extended: true
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          # The action defaults to search for the dependency file (package-lock.json,
+          # npm-shrinkwrap.json or yarn.lock) in the repository root, and uses its
+          # hash as a part of the cache key.
+          # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
+          cache-dependency-path: '**/package-lock.json'
+
+      - run: npm ci
+      
+      - uses: actions/cache@v4
+        with:
+          path: ${{ env.HUGO_CACHEDIR }} # <- Use the same env variable just right here
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+      
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
