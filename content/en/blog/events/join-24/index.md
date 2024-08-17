@@ -45,4 +45,7 @@ Scouting is a family-oriented organization. Youth develop character, leadership,
 This flyer hosted by Mountain Valley District, VAHC, Boy Scouts of America.
 These materials described herein are not sponsored by the Rockingham County School Board.
 {{% /blocks/section %}}
-<!-- [Join Scouting Night 2024 Flier](Pack-120-recruitment-flyer-back_2024.pdf) -->
+
+{{% blocks/section %}}
+Please feel welcome to share our [Join Scouting Night 2024 Flier <i class="fa fa-solid fa-download"></i>](Pack-120-recruitment-flyer-back_2024.pdf) with your friends.
+{{% /blocks/section %}}
