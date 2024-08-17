@@ -65,6 +65,10 @@ markup:
     # guessSyntax: true
 
 # Everything below this are Site Params
+services:
+  googleAnalytics:
+    id: "G-X8KQ1K18G8"
+  
 
 menus:
   main:
