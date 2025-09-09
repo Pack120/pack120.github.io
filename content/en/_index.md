@@ -2,9 +2,9 @@
 title: Cub Scout Pack 120 - Events
 ---
 
-{{< blocks/cover title="Things are happening in Cub Scout Pack 120" image_anchor="top" height="full" color="dark" >}}
+{{< blocks/cover title="Join us for Cub Scout Pack 120's 2025 Kick-off on Mon. 9/15" image_anchor="top" height="full" color="dark" >}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="blog/events/join-25/">
-  Like what?! <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+  Learn more! <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <!-- <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://pack120.mypack.us/home" target="_blank" rel="noopener noreferrer">
   Learn More <i class="fa fa-solid fa-arrow-up-right-from-square ms-2 "></i>
