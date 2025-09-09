@@ -1,6 +1,6 @@
 baseURL: https://scoutinghb.org
-title: Scouting Events in Harrisonburg
-description: Scouting events in Harrisonburg, VA, USA
+title: Pack 120
+description: Cub Scout Pack in Rockingham, VA, USA
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
@@ -67,15 +67,15 @@ markup:
 # Everything below this are Site Params
 services:
   googleAnalytics:
-    id: "G-X8KQ1K18G8"
+    id: "G-N3J8BHQ36S"
   
 
 menus:
   main:
-  - name: 'Pack 120 Website'
+  - name: 'Virginia Headwaters Council'
     pre: <i class="fa fa-globe"></i>
-    url: 'https://pack120.mypack.us/home'
-    weight: 1
+    url: 'https://www.virginiaheadwaters.org/'
+    weight: 3
 
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
@@ -159,7 +159,7 @@ params:
     # If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
     # add "hide_feedback: true" to the page's front matter.
     feedback:
-      enable: true
+      enable: false
       # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
       'yes': >-
         Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.

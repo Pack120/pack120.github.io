@@ -42,7 +42,7 @@ Interested in joining but can’t attend?  Joining Pack 120: Use this QR Code or
 
 {{% blocks/section %}}
 Scouting is a family-oriented organization. Youth develop character, leadership, communication skills, and good citizenship.
-This flyer hosted by Mountain Valley District, VAHC, Boy Scouts of America.
+This flyer hosted by Mountain Valley District, VAHC, Scouting America.
 These materials described herein are not sponsored by the Rockingham County School Board.
 {{% /blocks/section %}}
 
