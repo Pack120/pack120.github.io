@@ -1,8 +1,8 @@
 ---
 date: 2025-09-09
 title: 9/15@6pm - Join Scouting Night - 2025
-linkTitle: 2025 Join Scouting Night and Pack 120 Fall Kick-off
-description: Come out to Rockingham Park at the Crossroads Monday September 15 6-7pm to have some fun and learn about Scouting."
+linkTitle: "2025 Join Scouting Night and Pack 120 Fall Kick-off"
+description: "Come out to Rockingham Park at the Crossroads Monday September 15 6-7pm to have some fun and learn about Scouting."
 categories: [events]
 tags: [join]
 ---
