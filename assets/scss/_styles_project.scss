@@ -16,3 +16,76 @@ div.container.text-center.td-arrow-down {
   background-color: $white;
   color: $blue;
 }
+
+.nav-link {
+  color: #ffffff;
+}
+
+.card.leader {
+  max-width: 14rem;
+}
+
+.card.leader .card-title {
+  font-size: 1.5rem;
+}
+
+
+
+.td-box--1 .btn.btn-lg.btn-primary {
+  background-color: $yellow;
+  border-color: $blue;
+}
+
+.bg-lion {
+  background-color: $lion !important;
+  color: $black !important;
+}
+
+.bg-tiger {
+  background-color: $tiger !important;
+  color: $black !important;
+}
+.bg-wolf {
+  background-color: $wolf !important;
+  color: $black !important;
+}
+.bg-bear {
+  background-color: $bear !important;
+  color: $black !important;
+}
+.bg-webelos {
+  background-color: $webelos !important;
+  color: $black !important;
+}
+.bg-aol {
+  background-color: $aol !important;
+  color: $black !important;
+}
+
+.bg-cubblue {
+  background-color: $cubblue !important;
+  color: $cubgold !important;
+}
+
+.card.leader .leader-blurb {
+  --max-lines: 3;
+  --lh: 1.5rem; /* line height */
+  position: relative;
+  max-height: calc(var(--lh) * var(--max-lines));
+  overflow: hidden;
+  padding-right: 1rem; /* space for ellipsis */
+}
+.card.leader .leader-blurb::before {
+  position: absolute;
+  content: "...";
+  inset-block-end: 0; /* "bottom" */
+  inset-inline-end: 0; /* "right" */
+}
+.card.leader .leader-blurb::after {
+  content: "";
+  position: absolute;
+  inset-inline-end: 0; /* "right" */
+  width: 1rem;
+  height: 1rem;
+  background: white;
+}

@@ -1,0 +1,4 @@
+---
+title: Resultados
+layout: search
+---

@@ -35,8 +35,13 @@ In Scouts, your child will have lots of FUN, learn new things, and make new frie
 Volunteers will be available to answer any questions from 6pm to 7:30pm.
 {{% /blocks/section %}}
 {{% blocks/section %}}
+## Interested in joining but can’t attend? 
 
-Interested in joining but can’t attend? [Follow this link!](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-763paa0120)
+If you already know you'd like to join our Pack and can't make it to our event, simply follow the link below to register your child as a cub scout.
+
+<a class="btn btn-lg btn-primary me-3 mb-4 text-black" href="https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-763paa0120">
+  Follow this link! <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a>
 
 
 {{% /blocks/section %}}
@@ -48,5 +53,6 @@ The materials described herein are not sponsored by the Rockingham County School
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
-Please feel welcome to share our [Join Scouting Night 2025 Flier <i class="fa fa-solid fa-download"></i>](pack-120-kick-off-flyer-2025.pdf) with your friends.
+Please feel welcome to share our [Join Scouting Night 2025 Flier <i class="fa fa-solid fa-download"></i>](PACK_120_ON_EVENT.pdf) with your friends.
 {{% /blocks/section %}}
+
