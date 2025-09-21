@@ -275,7 +275,7 @@ Jackie Funkhouser
   </div>
 </div>
 <div class="card leader mb-3 d-inline-flex">
-  <img src="../../pack-120-logo.png" class="card-img-top" alt="...">
+  <img src="kevin.jpeg" class="card-img-top" alt="Kevin Iwanicki">
   <div class="card-body">
     <h2 class="card-title">
 Kevin Iwanicki
