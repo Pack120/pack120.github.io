@@ -167,7 +167,7 @@ Blake Wenger
       <span class="badge rounded-pill bg-lion">
       Den Leader
       </span>
-      <span class="badge rounded-pill bg-lion">Den 10</span>
+      <span class="badge rounded-pill bg-lion">Den 1</span>
       <span class="badge rounded-pill bg-lion">LIONS</span>
     </p>
   </div>
@@ -184,7 +184,7 @@ Katey Bryant
       <span class="badge rounded-pill bg-lion">
       Assistant Den Leader
       </span>
-      <span class="badge rounded-pill bg-lion">Den 10</span>
+      <span class="badge rounded-pill bg-lion">Den 1</span>
       <span class="badge rounded-pill bg-lion">LIONS</span>
     </p>
   </div>
