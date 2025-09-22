@@ -280,8 +280,8 @@ Jackie Funkhouser
     <h2 class="card-title">
 Kevin Iwanicki
     </h2>
-    <p class="card-text leader-blurb">More soon</p>
-    <button type="button" class="btn btn-primary float-end" data-bs-toggle="popover" data-bs-title="more soon" data-bs-content="More soon..."><i class="fa fa-book"></i></button>
+    <p class="card-text leader-blurb">Hi Scouts, once upon a time, I was a Cub Scout too—starting out as a Wolf Scout in Elkton, VA. Our den met after school in the basement of Elkton United Methodist Church, where many fun activities and great times with friends created lasting memories. Later, I joined Troop 28 at Massanutten Presbyterian Church and earned the rank of Eagle Scout.<br>Throughout the journey, incredible Scout leaders offered guidance and support, shaping my experience in meaningful ways. Today, it's an honor to carry that spirit forward and be a supportive leader for the Scouts of Pack 120.</p>
+    <button type="button" class="btn btn-primary float-end" data-bs-toggle="popover" data-bs-title="more soon" data-bs-content="Hi Scouts, once upon a time, I was a Cub Scout too—starting out as a Wolf Scout in Elkton, VA. Our den met after school in the basement of Elkton United Methodist Church, where many fun activities and great times with friends created lasting memories. Later, I joined Troop 28 at Massanutten Presbyterian Church and earned the rank of Eagle Scout.<br>Throughout the journey, incredible Scout leaders offered guidance and support, shaping my experience in meaningful ways. Today, it's an honor to carry that spirit forward and be a supportive leader for the Scouts of Pack 120."><i class="fa fa-book"></i></button>
     <p class="card-text">
       <span class="badge rounded-pill bg-webelos">
       Den Leader
