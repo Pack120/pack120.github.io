@@ -11,7 +11,7 @@ In Cubscouts, all of the cubs in an area are members of a Pack (ours is Pack 120
 The Pack has several smaller units, usually at least one per grade in elementary school, called Dens.
 
 <div class="card leader mb-3 d-inline-flex">
-  <img src="michael.jpeg" class="card-img-top" alt="...">
+  <img src="michael.jpeg" class="card-img-top" alt="Michael Stewart">
   <div class="card-body">
     <h2 class="card-title">Michael Stewart</h2>
     <p class="card-text leader-blurb">I'm so happy to finally get to return to scouting! I was in scouts in my youth and earned the Eagle Scout rank. I benefitted from the hard work of so many leaders and mentors, and am delighted to pay it forward. My daughter Mary's crossed over to Troop 242 and my son Charlie is in the Bear den this year. Outside of scouting, I am a professor in the Department of Computer Science at JMU. I enjoy cooking, eating, playing games, learning, hiking, and hearing about your pets.</p>
@@ -29,12 +29,12 @@ The Pack has several smaller units, usually at least one per grade in elementary
 </div>
 
 <div class="card leader mb-3 d-inline-flex">
-  <img src="../../pack-120-logo.png" class="card-img-top" alt="...">
+  <img src="Missy Luikart.jpeg" class="card-img-top" alt="Missy Luikart">
   <div class="card-body">
     <h2 class="card-title">
 Missy Luikart
     </h2>
-    <p class="card-text leader-blurb">More soon</p>
+    <p class="card-text leader-blurb">I'm so glad to be able to participate in Scouting America!  I watched my brother learn so much in scouts and wanted to go where he went and learn what he learned.  I've always loved the outdoors, and I'm so happy to lead a den of sweet girls, including my daughter, and help Michael as Assistant Cubmaster.  I also have a son in Troop 40, and a younger son not quite ready for Cub Scouts yet.  Welcome to our Pack!</p>
     <p class="card-text">
       <span class="badge rounded-pill bg-cubblue">
       Assistant Cubmaster
@@ -45,18 +45,18 @@ Missy Luikart
       </span>
       <span class="badge rounded-pill bg-webelos">Den 7</span>
       <span class="badge rounded-pill bg-webelos">Webelos</span>
-    <button type="button" class="btn btn-primary float-end" data-bs-toggle="popover" data-bs-title="Missy Luikart" data-bs-content="More soon..."><i class="fa fa-book"></i></button>
+    <button type="button" class="btn btn-primary float-end" data-bs-toggle="popover" data-bs-title="Missy Luikart" data-bs-content="I'm so glad to be able to participate in Scouting America!  I watched my brother learn so much in scouts and wanted to go where he went and learn what he learned.  I've always loved the outdoors, and I'm so happy to lead a den of sweet girls, including my daughter, and help Michael as Assistant Cubmaster.  I also have a son in Troop 40, and a younger son not quite ready for Cub Scouts yet.  Welcome to our Pack!"><i class="fa fa-book"></i></button>
     </p>
   </div>
 </div>
 <div class="card leader mb-3 d-inline-flex">
-  <img src="../../pack-120-logo.png" class="card-img-top" alt="...">
+  <img src="Akers.Jeremy.jpg" class="card-img-top" alt="Jeremy Akers">
   <div class="card-body">
     <h2 class="card-title">
 Jeremy Akers
     </h2>
-    <p class="card-text leader-blurb">More soon</p>
-    <button type="button" class="btn btn-primary float-end" data-bs-toggle="popover" data-bs-title="more soon" data-bs-content="More soon..."><i class="fa fa-book"></i></button>
+    <p class="card-text leader-blurb">I'm a proud dad with one son in Troop 40 and another in the Wolf den. As a professor of nutrition at James Madison University, I’m passionate about education and growth; both in the classroom and in the outdoors. I love hiking, fishing, and hunting, and I truly enjoy watching Scouts grow, learn, and thrive through the adventures and values of the pack. Welcome to Pack 120!</p>
+    <button type="button" class="btn btn-primary float-end" data-bs-toggle="popover" data-bs-title="more soon" data-bs-content="I'm a proud dad with one son in Troop 40 and another in the Wolf den. As a professor of nutrition at James Madison University, I’m passionate about education and growth; both in the classroom and in the outdoors. I love hiking, fishing, and hunting, and I truly enjoy watching Scouts grow, learn, and thrive through the adventures and values of the pack. Welcome to Pack 120!"><i class="fa fa-book"></i></button>
     <p class="card-text">
       <span class="badge rounded-pill bg-cubblue">
       Committee Chair
