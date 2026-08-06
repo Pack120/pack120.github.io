@@ -54,6 +54,6 @@ The materials described herein are not sponsored by the Rockingham County School
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
-Please feel welcome to share our [Join Scouting Night 2026 Flier <i class="fa fa-solid fa-download"></i>](PACK 120 Join Scout Night 2026.pdf) with your friends.
+Please feel welcome to share our [Join Scouting Night 2026 Flier <i class="fa fa-solid fa-download"></i>](PACK%20120%20Join%20Scout%20Night%202026.pdf) with your friends.
 {{% /blocks/section %}}
 
