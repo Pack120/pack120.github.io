@@ -1,5 +1,6 @@
 name: Deploy Site
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '30 13 * * *' # run at 730 every day to support use of hugo's date, publishDate, and expiryDate features. see: https://gohugo.io/getting-started/usage/#draft-future-and-expired-content and https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule 
   push:
