@@ -23,7 +23,7 @@ In Scouts, your child will have lots of FUN, learn new things, and make new frie
   <dt>Who:</dt>
   <dd>All youth, Kindergarten through Grade 5</dd>
   <dt>What:</dt>
-  <dd>Ready to: Derby Cars & More</dd>
+  <dd>S'mores, Derby Cars, & More</dd>
   <dt>When:</dt>
   <dd>Monday, August 24, 2026</dd>
   <dd>6:00pm to 7:00pm</dd>
