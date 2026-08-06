@@ -1,5 +1,6 @@
 ---
 date: 2026-08-24
+publishDate: 2026-08-05
 title: 8/24@6pm - Join Scouting Night - 2026
 linkTitle: "2026 Join Scouting Night and Pack 120 Fall Kick-off"
 description: "Come out to Rockingham Park at the Crossroads Monday August 25 6-7pm to have some fun and learn about Scouting."
