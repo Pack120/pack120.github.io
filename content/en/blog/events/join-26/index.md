@@ -14,7 +14,7 @@ Come out and have a s'more, play games, and generally have fun while you and you
 
 In Scouts, your child will have lots of FUN, learn new things, and make new friends.
 
-<!-- qr code link from the flier https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-763paa0120 -->
+<!-- qr code link from the flyer https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-763paa0120 -->
 
 <img class="float-end" src="pack-120-logo.png" alt="pack 120 cubscout logo with dark blue wolf on yellow background" width="300">
 
@@ -54,6 +54,6 @@ The materials described herein are not sponsored by the Rockingham County School
 {{% /blocks/section %}}
 
 {{% blocks/section %}}
-Please feel welcome to share our [Join Scouting Night 2026 Flier <i class="fa fa-solid fa-download"></i>](PACK%20120%20Join%20Scout%20Night%202026.pdf) with your friends.
+Please feel welcome to share our [Join Scouting Night 2026 Flyer <i class="fa fa-solid fa-download"></i>](PACK%20120%20Join%20Scout%20Night%202026.pdf) with your friends.
 {{% /blocks/section %}}
 
